@@ -1,0 +1,233 @@
+header {
+    margin-top: -10px;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    background-image: url("a1.jpg");
+    background-repeat: repeat-x;
+}
+
+.ban {
+    position: relative;
+    background-color: rgba(45, 45, 48, 0.308);
+    width: 80%;
+    color: white;
+    font: bold;
+    top: 70px;
+    margin-top: 20px;
+    margin-left: 130px;
+    word-spacing: 5px;
+    line-height: 40px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+.ecm {
+    position: absolute;
+    margin-top: -400px;
+    top: 580px;
+    height: 350px;
+    width: 100%;
+    display: flex;
+}
+
+.glb {
+    position: relative;
+    top: 580px;
+    height: 300px;
+    width: 400px;
+}
+
+.mem {
+    position: relative;
+    top: 520px;
+    background-color: rgba(83, 80, 80, 0.336);
+    width: 70%;
+    line-height: 40px;
+    word-spacing: 5px;
+    margin-left: 250px;
+    padding: 10px;
+    color: #185992;
+    font-family: cursive;
+    font-size: 35px;
+    border-radius: 12px;
+}
+
+footer {
+    position: relative;
+    top: 250px;
+    font-size: 40px;
+}
+
+footer {
+    background-color: #000;
+    margin-top: 400px;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+}
+
+.foot {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+}
+
+.inside {
+    display: flex;
+    margin: 13px 233px;
+}
+
+.f {
+    display: flex;
+    font-size: 17px;
+    margin: 0px 59px;
+}
+
+.l1 li {
+    list-style: none;
+    text-align: left;
+}
+
+.l1 li a {
+    color: #95a4b3;
+    text-decoration: none;
+}
+
+.l1 a {
+    text-decoration: none;
+}
+
+.l1 p {
+    text-align: justify;
+}
+
+.navbar {
+    background-color: rgb(42, 41, 41);
+    position: fixed;
+    width: 110%;
+    margin: -9px 16px 0px -8px;
+    height: 60px;
+}
+
+.navbar ul {
+    display: inline;
+    overflow: auto;
+}
+
+.navbar li {
+    float: right;
+    list-style: none;
+    margin: 17px -16px;
+    margin-right: 70px;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar li a:hover {
+    color: rgb(158, 162, 163);
+}
+
+.search {
+    float: left;
+    color: white;
+    padding: 14px 75px;
+}
+
+.navbar input {
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 100%px;
+}
+
+.jumbotron {
+    margin-top: 100px;
+}
+
+.row {
+    margin: 10px 80px 10px 80px;
+}
+
+.navbar {
+    background-color: rgb(42, 41, 41);
+    position: fixed;
+    width: 100%;
+    margin: -9px 16px 0px -8px;
+    height: 60px;
+}
+
+.navbar ul {
+    display: inline;
+    overflow: auto;
+}
+
+.navbar li {
+    float: right;
+    list-style: none;
+    margin: 17px -16px;
+    margin-right: 70px;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar li a:hover {
+    color: rgb(158, 162, 163);
+}
+
+.search {
+    float: left;
+    color: white;
+    padding: 14px 75px;
+}
+
+.navbar input {
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 100%px;
+}
+
+.A {
+    text-decoration: none;
+    margin-left: 300px;
+    margin-top: 6px;
+    float: center;
+    font-size: 28px;
+    font-family: initial;
+    display: inline-block;
+    color: white;
+}
+
+.A a {
+    text-decoration: none;
+    background-color: transparent;
+    color: #ededed;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.foot {
+    font-size: 20px;
+    color: #a1b6b6;
+}

@@ -1,0 +1,256 @@
+.navbar {
+	background-color: rgb(42, 41, 41);
+	position: sticky;
+	font-size: 16px;
+	overflow: hidden;
+	width: 100%;
+	height: 60px;
+}
+
+.navbar ul {
+	display: inline;
+	overflow: auto;
+}
+
+.navbar li {
+	float: right;
+	list-style: none;
+	margin: 17px -16px;
+	margin-right: 70px;
+}
+
+.navbar li a {
+	padding: 3px 3px;
+	text-decoration: none;
+	color: white;
+}
+
+.navbar li a:hover {
+	color: rgb(158, 162, 163);
+}
+
+.A {
+	text-decoration: none;
+	margin-left: 210px;
+	margin-top: 18px;
+	font-size: 28px;
+	font-family: initial;
+	display: inline-block;
+	color: ivory;
+}
+
+
+.hdg {
+    position: relative;
+    text-align: left;
+    top: 10px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer {
+    position: relative;
+    margin-top: 50px;
+    word-spacing: 5px;
+    background-color: rgb(42, 41, 41);
+    font-size: 15px;
+    width: 120%;
+}
+
+.query,
+.query1,
+.query2 {
+    padding: 50px;
+}
+
+.q {
+    font-size: 30px;
+    padding-right: 40px;
+    margin-left: 95px;
+}
+
+.con {
+    font-size: 30px;
+    padding-right: 90px;
+    margin-left: 40px;
+    width: 150px;
+}
+
+.urname {
+    padding-left: 5px;
+    width: 250px;
+    margin-left: 120px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.email {
+    font-size: 30px;
+    padding-right: 40px;
+    margin-left: 50px;
+}
+
+.eml {
+    font-size: 20px;
+    padding-left: 5px;
+    margin-right: -35px;
+    margin-left: 120px;
+    height: 40px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.contact {
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 250px;
+    padding-left: 5px;
+}
+
+.qry {
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.ans {
+    padding-bottom: 50px;
+    padding-left: 10px;
+    margin-left: 140px;
+    border-radius: 5px;
+    width: 280px;
+    height: 90px;
+    font-size: 20px;
+}
+
+.stat {
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-left: 100px;
+}
+
+body {
+    background-image: url("contact2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.sum {
+    position: relative;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(43, 158, 204);
+    color: white;
+    margin-left: 280px;
+    word-spacing: 10px;
+    padding: 5px;
+}
+
+.container {
+    display: inline-block;
+}
+
+.inside {
+    display: flex;
+    margin: 13px 233px;
+}
+
+.f {
+    display: flex;
+    margin: 0px 59px;
+}
+
+.l1 li {
+    list-style: none;
+}
+
+.l1 li a {
+    color: #95a4b3;
+    text-decoration: none;
+}
+
+.l1 a {
+    text-decoration: none;
+}
+
+body {
+    background-color: rgba(213, 235, 235, 0.431);
+}
+
+.in p {
+    padding: 10px;
+}
+
+.cc {
+    color: oldlace;
+    padding: 10px;
+}
+
+.menu {
+    margin: 0px 50px 0px 50px;
+}
+
+.contact {
+    margin: 0px 50px 0px 50px;
+}
+
+.c1 {
+    display: flex;
+    margin: 20px 13px 12px 128px;
+}
+
+.heading {
+    display: flex;
+    height: 85px;
+    margin-top: 3px;
+    text-align: center;
+}
+
+.heading h1 {
+    margin: 53px 39px 59px 493px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+footer {
+	margin-top: 105px;
+
+	background-color: rgb(42, 41, 41);
+	color: white;
+	position: sticky;
+	font-size: 16px;
+	overflow: hidden;
+	width: 100%;
+	height: 50px;
+}
+.container {
+    display: flex;
+}
+
+.inside {
+    display: flex;
+    margin: 13px 233px;
+}
+
+.f {
+    display: flex;
+    margin: 0px 59px;
+}
+
+.l1 li {
+    list-style: none;
+
+}
+
+.l1 li a {
+    color: #95a4b3;
+    text-decoration: none;
+}
+
+.l1 a {
+    text-decoration: none;
+}
